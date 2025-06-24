@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there 👋
+
+## 👨‍💻 About Me
+
+**Senior Backend Developer**  
+Crafting resilient backend systems, one message and query at a time.
+
+---
+
+### 🛠️ Skills
+
+- **Languages:** C#, T-SQL  
+- **Frameworks:** .NET (ASP.NET Core, EF Core)  
+- **Messaging:** Apache Kafka  
+- **Caching:** Redis  
+- **Search & Analytics:** Elasticsearch  
+- **Databases:** SQL Server, MongoDB  
+- **Tools:** Docker, Git, Postman, Kibana  
+
+---
+
+### 🚀 Highlights
+
+- Building event-driven systems with Kafka
+- Implementing robust logging pipelines with Serilog and Elasticsearch
+- Creating internal developer tools and utilities to boost productivity
+
+---
+
+### 🧑‍💼 Professional Interests
+
+- Designing scalable microservices and distributed systems
+- Clean Architecture & Domain-Driven Design
+- Writing maintainable, readable, and testable code
+
+---
+
+### 🌱 Fun Facts
+
+- Big fan of clean architecture and DDD
+- Enjoy exploring embedded systems and IoT applications in agriculture
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ros-sokcheanith-24081423b/)
+- [GitHub](https://github.com/nith-aba)
+
+---
 
 <!--
-**nith-aba/nith-aba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to reach out for collaboration, discussion, or just to say hi!
 -->
