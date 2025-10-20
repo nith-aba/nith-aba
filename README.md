@@ -9,12 +9,12 @@ Crafting resilient backend systems, one message and query at a time.
 
 ### 🛠️ Skills
 
-- **Languages:** C#, TypeScript, JavaScript, HTML, CSS, Razor, Rust, Python, SQL and etc...  
-- **Frameworks:** .NET (ASP.NET Core, EF Core)  
+- **Languages:** C#, TypeScript, JavaScript, HTML, CSS, Razor, Rust, SQL and etc...  
+- **Frameworks:** .NET (ASP.NET Core)  
 - **Messaging:** Apache Kafka  
 - **Caching:** Redis  
 - **Search & Analytics:** Elasticsearch  
-- **Databases:** SQL Server, MongoDB  
+- **Databases:** SQL Server, Postgres, MongoDB  
 - **Tools:** Docker, Git, Postman, Kibana  
 
 ---
